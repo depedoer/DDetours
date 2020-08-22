@@ -33,6 +33,7 @@ requires
 
 contains
   CPUID in 'Source\CPUID.pas',
+  LegacyTypes in 'Source\LegacyTypes.pas',
   DDetours in 'Source\DDetours.pas',
   InstDecode in 'Source\InstDecode.pas';
 
